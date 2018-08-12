@@ -328,4 +328,3 @@ public class HttpUtils {
         return str == null || str.trim().length() == 0;
     }
 }
-
